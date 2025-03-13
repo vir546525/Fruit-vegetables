@@ -14,11 +14,8 @@
 }
 
 :root {
-  /* background-color */
   --bg-white: #fff;
   --bg-dark-color: #03262c;
-
-  /* Text colors */
   --primary-text: #061738;
   --secondary-color: #60cd12;
   --light-color: #e2f6de;
@@ -26,8 +23,6 @@
   --text-white: #fff;
   --text-gray: #dee2e6;
   --anchor-color: #007aff;
-
-  /* Font family */
   --primary-font: 'Barlow Condensed', sans-sarif;
   --secondary-font: 'Roboto', sans-sarif;
 }
